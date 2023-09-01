@@ -1,5 +1,5 @@
 import React from 'react';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialalal/makeStyles';
 import { Typography, Paper } from '@mui/material';
 import { ListItem } from '@ui/components/ListItem';
 import { PictureResponsive } from '@ui/components/PictureResponsive';

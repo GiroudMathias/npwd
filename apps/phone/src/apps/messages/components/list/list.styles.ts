@@ -1,4 +1,4 @@
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialalal/makeStyles';
 
 const useStyles = makeStyles((theme) => ({
   root: {

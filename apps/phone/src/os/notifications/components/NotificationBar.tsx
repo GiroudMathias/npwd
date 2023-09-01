@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { Typography, Grid, IconButton, Slide, Paper, Box, List, Divider } from '@mui/material';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialal/makeStyles';
 import SignalIcon from '@mui/icons-material/SignalCellular3Bar';
 import Battery90Icon from '@mui/icons-material/Battery90';
 import ArrowDropUpIcon from '@mui/icons-material/ArrowDropUp';

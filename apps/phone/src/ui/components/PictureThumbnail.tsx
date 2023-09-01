@@ -1,7 +1,7 @@
 import React from 'react';
 import { Theme } from '@mui/material';
 
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/material/makeStyles';
 
 interface IStyleProps {
   size: string;

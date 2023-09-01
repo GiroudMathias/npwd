@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { CircularProgress, Button } from '@mui/material';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialal/makeStyles';
 import { Repeat } from '@mui/icons-material';
 import { TwitterEvents } from '@typings/twitter';
 import fetchNui from '../../../../utils/fetchNui';

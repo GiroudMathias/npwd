@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Box, Theme } from '@mui/material';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/material/makeStyles';
 import { useSettings } from '../../apps/settings/hooks/useSettings';
 import { useTranslation } from 'react-i18next';
 

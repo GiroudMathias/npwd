@@ -1,6 +1,6 @@
 import React from 'react';
 import CloseIcon from '@mui/icons-material/Close';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialal/makeStyles';
 import { Button, Paper, useTheme } from '@mui/material';
 
 const useStyles = makeStyles((theme) => ({

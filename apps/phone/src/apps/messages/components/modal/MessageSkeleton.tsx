@@ -1,5 +1,5 @@
 import React from 'react';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialalal/makeStyles';
 import Skeleton from '@mui/material/Skeleton';
 
 const useStyles = makeStyles({

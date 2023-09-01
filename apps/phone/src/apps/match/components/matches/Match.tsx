@@ -3,7 +3,7 @@ import { useTranslation } from 'react-i18next';
 import { useHistory } from 'react-router-dom';
 import ListItemText from '@mui/material/ListItemText';
 import { Box, Button, ListItem } from '@mui/material';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialalal/makeStyles';
 import PersonIcon from '@mui/icons-material/Person';
 import ChatIcon from '@mui/icons-material/Chat';
 

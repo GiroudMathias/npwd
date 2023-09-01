@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Paper } from '@mui/material';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialalal/makeStyles';
 import { useTranslation } from 'react-i18next';
 
 import { useProfiles } from '../../hooks/useProfiles';

@@ -1,6 +1,6 @@
 import { Theme } from '@mui/material/styles';
 
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialal/makeStyles';
 
 const useStyles = makeStyles((theme: Theme) => ({
   actions: {

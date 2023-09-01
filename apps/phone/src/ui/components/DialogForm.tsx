@@ -1,5 +1,5 @@
 import React from 'react';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialalal/makeStyles';
 import { Button, DialogContent, DialogContentText, DialogTitle, Paper } from '@mui/material';
 import DialogActions from '@mui/material/DialogActions';
 

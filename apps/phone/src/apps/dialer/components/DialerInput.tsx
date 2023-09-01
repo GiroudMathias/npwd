@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
 import { Box, IconButton, Paper } from '@mui/material';
 import { Theme } from '@mui/material/styles';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialalal/makeStyles';
 import PhoneIcon from '@mui/icons-material/Phone';
 import PersonAddIcon from '@mui/icons-material/PersonAdd';
 import { DialInputCtx, IDialInputCtx } from '../context/InputContext';

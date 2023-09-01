@@ -2,7 +2,7 @@ import React from 'react';
 import { Slide, Paper } from '@mui/material';
 import NewMessageGroupForm from '../form/NewMessageGroupForm';
 import { LoadingSpinner } from '@ui/components/LoadingSpinner';
-import { styled } from '@mui/styles';
+import { styled } from '@mui/materialal';
 import { useQueryParams } from '../../../../common/hooks/useQueryParams';
 
 const StyledFormModal = styled(Paper)({

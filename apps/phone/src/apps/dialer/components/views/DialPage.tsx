@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Theme } from '@mui/material/styles';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialal/makeStyles';
 import DialGrid from '../DialPadGrid';
 import { DialerInput } from '../DialerInput';
 import { DialInputCtx } from '../../context/InputContext';

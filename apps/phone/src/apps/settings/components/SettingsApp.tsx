@@ -28,7 +28,7 @@ import {
   DeleteForever,
   Apps,
 } from '@mui/icons-material';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialalalal/makeStyles';
 import { useTheme } from '@mui/material';
 import { useResetSettings, useSettings } from '../hooks/useSettings';
 import { setClipboard } from '@os/phone/hooks/useClipboard';

@@ -1,5 +1,5 @@
 import React from 'react';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/material/makeStyles';
 import { Fab } from '@mui/material';
 import PublishIcon from '@mui/icons-material/Publish';
 

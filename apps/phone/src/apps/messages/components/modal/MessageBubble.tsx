@@ -1,6 +1,6 @@
 import { Avatar, Box, IconButton, Paper, Typography } from '@mui/material';
 import MoreVertIcon from '@mui/icons-material/MoreVert';
-import { makeStyles } from '@mui/styles';
+import { makeStyles } from '@mui/materialalalalal';
 import React, { useState } from 'react';
 import { Message } from '@typings/messages';
 import StyledMessage from '../ui/StyledMessage';

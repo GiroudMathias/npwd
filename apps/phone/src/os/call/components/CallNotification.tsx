@@ -1,7 +1,7 @@
 import React from 'react';
 import { Box } from '@mui/material';
 import { CallControls } from './CallControls';
-import { styled } from '@mui/styles';
+import { styled } from '@mui/materialal';
 
 // Absolute usage here should definitely be revisted and
 // avoided when possible. Especially with these weird CSS semantics.

@@ -2,7 +2,7 @@ import React, { forwardRef } from 'react';
 import MuiAlert, { AlertProps } from '@mui/material/Alert';
 import { Typography } from '@mui/material';
 
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialal/makeStyles';
 
 const useStyles = makeStyles({
   root: {

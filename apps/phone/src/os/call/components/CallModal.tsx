@@ -9,7 +9,7 @@ import CallContactContainer from './CallContactContainer';
 import RingingText from './RingingText';
 import { LoadingSpinner } from '@ui/components/LoadingSpinner';
 import { useWallpaper } from '../../../apps/settings/hooks/useWallpaper';
-import { styled } from '@mui/styles';
+import { styled } from '@mui/materialal';
 
 const StyledBoxRoot: React.FC<BoxProps> = styled(Box)({
   height: '100%',

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useTranslation } from 'react-i18next';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialalal/makeStyles';
 import { Box, FormControlLabel, Switch, Typography, useTheme } from '@mui/material';
 import Loader from '../Loader';
 import ProfileForm from '../profile/ProfileForm';

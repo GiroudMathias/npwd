@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Modal from '@ui/components/Modal';
 import { Box, Typography, useTheme } from '@mui/material';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialalal/makeStyles';
 import { useTranslation } from 'react-i18next';
 import { TextField } from '@ui/components/Input';
 import { Button } from '@ui/components/Button';

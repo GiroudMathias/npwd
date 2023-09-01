@@ -1,5 +1,5 @@
 import React from 'react';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialal/makeStyles';
 import { Add, Delete } from '@mui/icons-material';
 import { Fab } from '@mui/material';
 import { useCheckedConversationsValue, useIsEditing } from '../../hooks/state';

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Box, Fab, useTheme } from '@mui/material';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialal/makeStyles';
 import { useChannelsValue } from '../../state/state';
 import { ChannelItem } from '../ui/ChannelItem';
 import { List } from '@ui/components/List';

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Snackbar } from '@mui/material';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialalal/makeStyles';
 import { useSnackbar } from '../hooks/useSnackbar';
 import Alert from '../../../ui/components/Alert';
 

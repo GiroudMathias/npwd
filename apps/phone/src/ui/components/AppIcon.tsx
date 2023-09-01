@@ -1,6 +1,6 @@
 import React from 'react';
 import { darken, Theme } from '@mui/material/styles';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialal/makeStyles';
 import { green } from '@mui/material/colors';
 import { Avatar, Badge, Button, Zoom } from '@mui/material';
 import { useTranslation } from 'react-i18next';

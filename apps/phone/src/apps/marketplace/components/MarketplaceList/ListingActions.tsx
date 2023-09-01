@@ -1,6 +1,6 @@
 import { Box, Button } from '@mui/material';
 import { Theme } from '@mui/material/styles';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialalal/makeStyles';
 import React from 'react';
 import { MarketplaceEvents, MarketplaceListing } from '@typings/marketplace';
 import DeleteIcon from '@mui/icons-material/Delete';

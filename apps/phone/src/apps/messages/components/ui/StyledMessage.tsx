@@ -1,4 +1,4 @@
-import { styled } from '@mui/styles';
+import { styled } from '@mui/materialalal';
 import { Box } from '@mui/material';
 
 const StyledMessage = styled(Box)({

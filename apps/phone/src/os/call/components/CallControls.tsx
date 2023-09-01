@@ -5,7 +5,7 @@ import { useCall } from '../hooks/useCall';
 import { useCallModal } from '../hooks/useCallModal';
 import { StatusIconButton } from '@ui/components/StatusIconButton';
 import { Box } from '@mui/material';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialalal/makeStyles';
 import { useHistory } from 'react-router-dom';
 import MutedIcon from '@mui/icons-material/VolumeOff';
 import UnmutedIcon from '@mui/icons-material/VolumeUp';

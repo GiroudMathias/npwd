@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/material/makeStyles';
 import { Link } from 'react-router-dom';
 import { BottomNavigation, BottomNavigationAction } from '@mui/material';
 import { AddCircle, Home } from '@mui/icons-material/';

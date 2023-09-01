@@ -19,7 +19,7 @@ import { useHistory, useLocation, useParams } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { useContactActions } from '../../../contacts/hooks/useContactActions';
 import { useMessagesState } from '../../hooks/state';
-import { makeStyles } from '@mui/styles';
+import { makeStyles } from '@mui/materialalal';
 import { useMessageAPI } from '../../hooks/useMessageAPI';
 import { useCall } from '@os/call/hooks/useCall';
 import { Call } from '@mui/icons-material';

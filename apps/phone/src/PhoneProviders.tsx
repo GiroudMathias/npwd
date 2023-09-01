@@ -5,13 +5,13 @@ import { usePhoneTheme } from '@os/phone/hooks/usePhoneTheme';
 import SnackbarProvider from './os/snackbar/providers/SnackbarProvider';
 import Phone from './Phone';
 import { SnackbarProvider as NotistackProvider } from 'notistack';
-import { makeStyles } from '@mui/styles';
+import { makeStyles } from '@mui/material';
 import NotificationBase from '@os/new-notifications/components/NotificationBase';
 import { IApp } from '@os/apps/config/apps';
 import { CallNotificationBase } from '@os/new-notifications/components/calls/CallNotificationBase';
 import { SystemNotificationBase } from '@os/new-notifications/components/system/SystemNotificationBase';
 
-declare module '@mui/styles/defaultTheme' {
+declare module '@mui/material/defaultTheme' {
   // eslint-disable-next-line @typescript-eslint/no-empty-interface
   interface DefaultTheme extends Theme {}
 }

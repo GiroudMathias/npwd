@@ -1,5 +1,5 @@
 import React, { useCallback, useEffect, useState } from 'react';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialalalal/makeStyles';
 import { useTranslation } from 'react-i18next';
 import { Profile as IProfile, FormattedProfile, MatchEvents } from '@typings/match';
 import ProfileField from '@ui/components/ProfileField';

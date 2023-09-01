@@ -1,6 +1,6 @@
 import React from 'react';
 import { Backdrop, Paper, BoxProps } from '@mui/material';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialal/makeStyles';
 import { AppContentTypes } from '../interface/InterfaceUI';
 import { LoadingSpinner } from '@ui/components/LoadingSpinner';
 import { classNames } from '@utils/css';

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Box, CircularProgress } from '@mui/material';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialal/makeStyles';
 
 const useStyles = makeStyles({
   root: {

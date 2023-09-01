@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from 'react';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialal/makeStyles';
 
 import { LikeorDislikeDraggableElement } from '../utils/drag';
 

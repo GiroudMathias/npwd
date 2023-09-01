@@ -1,4 +1,4 @@
-import { styled } from '@mui/styles';
+import { styled } from '@mui/materialal';
 
 const Backdrop = styled('div')({
   background: 'black',

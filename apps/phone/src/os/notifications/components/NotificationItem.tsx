@@ -1,7 +1,7 @@
 import React from 'react';
 import CloseIcon from '@mui/icons-material/Close';
 import { IconButton, ListItem, ListItemAvatar, ListItemText, Theme } from '@mui/material';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialal/makeStyles';
 import { INotification } from '../providers/NotificationsProvider';
 import { useCurrentCallValue } from '@os/call/hooks/state';
 

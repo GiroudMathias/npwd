@@ -9,7 +9,7 @@ import fetchNui from '@utils/fetchNui';
 import { ServerPromiseResp } from '@typings/common';
 import { useTwitterActions } from '../../hooks/useTwitterActions';
 import { useSnackbar } from '@os/snackbar/hooks/useSnackbar';
-import { styled } from '@mui/styles';
+import { styled } from '@mui/materialalal';
 
 const StyledMenu = styled((props) => (
   <Menu

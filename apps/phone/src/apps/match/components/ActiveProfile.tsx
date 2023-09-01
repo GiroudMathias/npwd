@@ -2,7 +2,7 @@ import React, { useState, useRef } from 'react';
 import { Card, Fab, Box } from '@mui/material';
 import CancelIcon from '@mui/icons-material/Clear';
 import FireIcon from '@mui/icons-material/Whatshot';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/material/makeStyles';
 import { useTranslation } from 'react-i18next';
 
 import { FormattedProfile } from '@typings/match';

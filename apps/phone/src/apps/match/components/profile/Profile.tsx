@@ -8,7 +8,7 @@ import {
   LinearProgress,
   Typography,
 } from '@mui/material';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/material/makeStyles';
 import { useTranslation } from 'react-i18next';
 import { FormattedProfile, FormattedMatch } from '@typings/match';
 import { useAudioPlayer } from '@os/audio/hooks/useAudioPlayer';

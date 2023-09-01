@@ -11,7 +11,7 @@ import { useTranslation } from 'react-i18next';
 import { Box, IconButton, ListItemIcon, ListItemText, useTheme, Typography } from '@mui/material';
 import { useHistory } from 'react-router-dom';
 import { Theme } from '@mui/material/styles';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialalal/makeStyles';
 import dayjs from 'dayjs';
 import { useMyPhoneNumber } from '@os/simcard/hooks/useMyPhoneNumber';
 import { useDialHistory } from '../../hooks/useDialHistory';

@@ -1,6 +1,6 @@
 import CloseIcon from '@mui/icons-material/Close';
 import { Box, IconButton, Slide } from '@mui/material';
-import makeStyles from '@mui/styles/makeStyles';
+import makeStyles from '@mui/materialal/makeStyles';
 import { Alert, AlertTitle } from '@mui/material';
 import { useCurrentCallValue } from '@os/call/hooks/state';
 import { useNotification } from '../useNotification';
